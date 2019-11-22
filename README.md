@@ -1,6 +1,6 @@
 # Hello_world-Competiitve-Programming
 
-[GitHub Logo](/images/logo.png)
+[Hello World](https://drive.google.com/file/d/1A90Zfvb-8D0E5Lg4WbfOc19q2iwjdsZP/view?usp=sharing)
 
 This section will provide you the pdf of my lecture and codes.
 

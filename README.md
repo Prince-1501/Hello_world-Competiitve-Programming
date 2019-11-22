@@ -12,4 +12,4 @@ My channel contains Courses on
 * C++ Language
 * And lots of stuffs 
 
-You can contact me on my gmail ID : Helloworldbyprince@gmail.com
+You can contact me on my Email ID : Helloworldbyprince@gmail.com

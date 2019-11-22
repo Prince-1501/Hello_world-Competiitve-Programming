@@ -1,11 +1,11 @@
 # Hello_world-Competiitve-Programming
 
-[Hello World](https://drive.google.com/file/d/1A90Zfvb-8D0E5Lg4WbfOc19q2iwjdsZP/view?usp=sharing)
+[Hello World](https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q/)
 
 This section will provide you the pdf of my lecture and codes.
 
 I have Youtube channel named - "Hello World" 
-https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q/
+
 
 My channel contains Courses on 
 

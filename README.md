@@ -1,4 +1,7 @@
 # Hello_world-Competiitve-Programming
+
+[GitHub Logo](/images/logo.png)
+
 This section will provide you the pdf of my lecture and codes.
 
 I have Youtube channel named - "Hello World" 

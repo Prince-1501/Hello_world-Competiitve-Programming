@@ -1,0 +1,58 @@
+//
+//  main.cpp
+//
+//  Created by Prince  Kumar on 30/04/2020.
+//  Copyright © 2020 Prince  Kumar. All rights reserved.
+//
+//                      ---** MAP in C++ **---
+
+#include <iostream>
+#include <map>
+using namespace std;
+int main(){
+    // roll_num   weight of student
+    map < int , int > person;
+    
+    // Insert the values in map
+    person.insert(pair<int, int>(1,35));
+    person.insert({2, 40});
+    person.insert({3,50});
+    person.insert({5, 10});
+    
+    
+//    auto it = person.find(3);
+//    person.erase(it);
+    
+    //person.erase(5);
+    
+    
+    // print
+    for(auto itr = person.begin() ; itr!=person.end() ; ++itr){
+        cout<<itr->first <<"  " <<itr->second<<endl;
+    }
+    
+    // .begin()  --> return iterator
+    //auto var  = person.begin();
+    //cout<<"By var iterator  " <<var->first <<" "<<var->second<<endl;
+    
+    // .end()  --> return iterator
+    //auto var  = person.end();   // Not actual map
+    //cout<<"By var iterator  " <<var->first <<" "<<var->second<<endl;
+    
+    //cout<<person.size()<<endl;
+    //cout<<person.max_size()<<endl;
+    
+    // .erase()
+    
+    // .empty()  -->whether map is empty or not
+    // 0 --> map is not empty
+    // 1 --> map is empty
+    
+    
+    person.clear();   // delete all the values in map
+    cout<<"map is empty or not ?  "<<person.empty()<<endl;
+    
+    
+    
+   
+}

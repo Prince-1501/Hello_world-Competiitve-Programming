@@ -1,4 +1,4 @@
-# Hello_world-Competiitve-Programming
+# Hello_world_Competiitve_Programming
 
 [Hello World](https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q/)
 

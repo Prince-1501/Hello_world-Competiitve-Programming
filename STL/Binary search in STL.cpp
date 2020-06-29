@@ -5,7 +5,6 @@
 //
 //                 ---** STANDARD TEMPLATE LIBRARY (STL) in C++ **---
 //                         ---** PRACTICE CODING SKILLS **---
-//                  all_of | any_of | none_of | copy_n | iota
 
 
 #include <iostream>

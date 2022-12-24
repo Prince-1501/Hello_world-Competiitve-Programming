@@ -52,3 +52,36 @@ public:
     
     
 };
+
+
+
+/* SOLUTION NAIVE APPROACH */
+
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        int i=0, j=0, n= haystack.size(), m = needle.size();
+        if(haystack == needle) return 0;
+        while(i<n){
+            if(haystack[i] == needle[j]){
+                int index = i;
+                string temp = "";
+                while(i<n && j<m && haystack[i] == needle[j]){
+                    temp += haystack[i];
+                    i++;
+                    j++;
+                }
+                if(temp == needle){
+                    return index;
+                }else{
+                    i=index+1;
+                    j = 0;
+                }
+
+            }else{
+                i++;
+            }
+        }
+        return -1;
+    }
+};
